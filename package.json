@@ -40,7 +40,7 @@
 		"purgecss-webpack-plugin": "^5.0.0",
 		"reachable-url": "^1.7.1",
 		"sass": "^1.63.6",
-		"sass-loader": "^13.3.2",
+		"sass-loader": "^16.0.0",
 		"style-loader": "^3.3.3",
 		"webpack-dev-server": "^4.15.1",
 		"webpack-merge": "^5.9.0"

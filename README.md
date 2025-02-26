@@ -13,7 +13,7 @@ This tool allows you to check if your adblock solution is blocking enough hosts.
 If you don't block all the hosts but you want to , you can use
 
 -   My hosts txt list -> [d3Host.txt](src/d3host.txt)
--   Compressed adblock version -> [d3Host.adblock](d3host.adblock)
+-   Compressed adblock version -> [d3Host.adblock](src/d3host.adblock)
 
 d3Host list is also included in
 

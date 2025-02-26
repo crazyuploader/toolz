@@ -37,7 +37,7 @@
 		"node-sass": "^9.0.0",
 		"postcss": "^8.4.31",
 		"prettier": "^2.8.8",
-		"purgecss-webpack-plugin": "^5.0.0",
+		"purgecss-webpack-plugin": "^7.0.0",
 		"reachable-url": "^1.7.1",
 		"sass": "^1.63.6",
 		"sass-loader": "^13.3.2",

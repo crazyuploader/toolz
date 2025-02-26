@@ -1,11 +1,11 @@
 ---
 name: New/Verified Test Issue Template
-about: Use this template when documenting a successful or verified test. Provide details
-  about the browser, operating system, Adblock solution
+about:
+    Use this template when documenting a successful or verified test. Provide details
+    about the browser, operating system, Adblock solution
 title: ''
 labels: passed-test
 assignees: d3ward
-
 ---
 
 **Browser:**
@@ -27,4 +27,4 @@ assignees: d3ward
 [Include the test log if available]
 
 **Dev Console:**
-[Copy and paste any relevant logs  from the developer console]
+[Copy and paste any relevant logs from the developer console]

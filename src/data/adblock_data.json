@@ -1,4 +1,4 @@
-{ 
+{
 	"Ads": {
 		"Amazon": [
 			"adtago.s3.amazonaws.com",
@@ -19,17 +19,13 @@
 			"m.doubleclick.net",
 			"mediavisor.doubleclick.net"
 		],
-		"Adcolony":[
+		"Adcolony": [
 			"ads30.adcolony.com",
 			"adc3-launch.adcolony.com",
 			"events3alt.adcolony.com",
 			"wd.adcolony.com"
 		],
-		"Media.net": [
-			"static.media.net",
-			"media.net",
-			"adservetx.media.net"
-		]
+		"Media.net": ["static.media.net", "media.net", "adservetx.media.net"]
 	},
 	"Analytics": {
 		"Google Analytics": [
@@ -71,9 +67,7 @@
 			"cs.luckyorange.net",
 			"settings.luckyorange.net"
 		],
-		"Stats WP Plugin": [
-			"stats.wp.com"
-		]
+		"Stats WP Plugin": ["stats.wp.com"]
 	},
 	"Error Trackers": {
 		"Bugsnag": [
@@ -82,37 +76,20 @@
 			"api.bugsnag.com",
 			"app.bugsnag.com"
 		],
-		"Sentry": [
-			"browser.sentry-cdn.com",
-			"app.getsentry.com"
-		]
+		"Sentry": ["browser.sentry-cdn.com", "app.getsentry.com"]
 	},
 	"Social Trackers": {
-		"Facebook": [
-			"pixel.facebook.com",
-			"an.facebook.com"
-		],
-		"Twitter": [
-			"static.ads-twitter.com",
-			"ads-api.twitter.com"
-		],
-		"LinkedIn": [
-			"ads.linkedin.com",
-			"analytics.pointdrive.linkedin.com"
-		],
+		"Facebook": ["pixel.facebook.com", "an.facebook.com"],
+		"Twitter": ["static.ads-twitter.com", "ads-api.twitter.com"],
+		"LinkedIn": ["ads.linkedin.com", "analytics.pointdrive.linkedin.com"],
 		"Pinterest": [
 			"ads.pinterest.com",
 			"log.pinterest.com",
 			"analytics.pinterest.com",
 			"trk.pinterest.com"
 		],
-		"Reddit": [
-			"events.reddit.com",
-			"events.redditmedia.com"
-		],
-		"YouTube": [
-			"ads.youtube.com"
-		],
+		"Reddit": ["events.reddit.com", "events.redditmedia.com"],
+		"YouTube": ["ads.youtube.com"],
 		"TikTok": [
 			"ads-api.tiktok.com",
 			"analytics.tiktok.com",
@@ -144,7 +121,7 @@
 			"offerwall.yandex.net",
 			"adfox.yandex.ru"
 		],
-		"Unity":[
+		"Unity": [
 			"auction.unityads.unity3d.com",
 			"webview.unityads.unity3d.com",
 			"config.unityads.unity3d.com",
@@ -181,10 +158,7 @@
 			"logservice1.hicloud.com",
 			"logbak.hicloud.com"
 		],
-		"OnePlus": [
-			"click.oneplus.cn",
-			"open.oneplus.net"
-		],
+		"OnePlus": ["click.oneplus.cn", "open.oneplus.net"],
 		"Samsung": [
 			"samsungads.com",
 			"smetrics.samsung.com",
